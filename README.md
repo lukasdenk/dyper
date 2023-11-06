@@ -1,6 +1,6 @@
 # Dyper - A Framework for Processing Hypergraphs on a Distributed System
 
-## Introdcution
+## Introduction
 
 This repository contains the code for Dyper, a distributed hypergraph processing system
 which is distributed and fast. It allows to implement hypergraph algorithms in a
